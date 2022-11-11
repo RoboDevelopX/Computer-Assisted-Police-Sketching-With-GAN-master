@@ -21,5 +21,3 @@
  <h2>The Model (Generator)</h2>
  <img src = "https://github.com/Malayanil/Computer-Assisted-Police-Sketching-with-GAN/blob/master/Model%20PNG.png" height = 1200 width = 400>
  <p> We have used Keras Sequential Model and the layer design is shown in this picture. </p><br>
- 
- <h2>For further details, please refer to the Report.pdf file uploaded here. </h2>
